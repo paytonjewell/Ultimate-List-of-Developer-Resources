@@ -1,3 +1,5 @@
+[Return to Front Page](README.md)
+
 # HTML Resources
 
 ### Cheat Sheets
