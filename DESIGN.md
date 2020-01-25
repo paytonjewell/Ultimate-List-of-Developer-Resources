@@ -5,6 +5,8 @@
 ### Graphics, Stock Photos & Illustrations
 * [UnDraw Flat Illustrations](https://undraw.co/)
 * [Unsplash Free Stock Images](https://unsplash.com/)
+* [Free Icons](https://thenounproject.com/)
+* [Free Commercial-Use Video Footage](https://www.pexels.com/videos/)
 
 ### Design Inspiration
 * [CodeMyUI](https://codemyui.com/)
@@ -22,5 +24,6 @@
 * [UI Gradients](https://uigradients.com/)
 * [Designer Tools](https://guide.freecodecamp.org/designer-tools)
 * [Google Fonts](https://fonts.google.com/)
+* [Logo Maker](https://www.namecheap.com/logo-maker)
 
 
