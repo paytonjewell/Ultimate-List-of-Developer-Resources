@@ -13,7 +13,7 @@ I invite others who are on this journey to contribute to this project as well an
 ##### [HTML Resources](HTML.md)
 ##### [CSS Resources](CSS.md)
 ##### [SEO Resources](#)
-##### [Interview / Getting A Job / Freelancing Resources](#)
+##### [Interview / Job Search / Freelancing Resources](JOBS.md)
 ##### [Design Resources](#)
 ##### [Portfolio Resources](#)
 ##### [Learning Programming Resources](#)
