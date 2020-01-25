@@ -20,3 +20,5 @@
 
 ### Bootstrap
 * [Hex Codes Associated with Bootstrap's Theme Colors](https://getbootstrap.com/docs/4.4/getting-started/theming/#available-variables)
+
+# Next Section > [SEO](SEO.md)

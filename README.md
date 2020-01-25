@@ -12,9 +12,9 @@ I invite others who are on this journey to contribute to this project as well an
 ### Table of Contents 
 ##### [HTML Resources](HTML.md)
 ##### [CSS Resources](CSS.md)
-##### [SEO Resources](#)
+##### [SEO Resources](SEO.md)
 ##### [Interview / Job Search / Freelancing Resources](JOBS.md)
-##### [Design Resources](#)
+##### [Design Resources](DESIGN.md)
 ##### [Portfolio Resources](#)
 ##### [Learning Programming Resources](#)
 ##### [Miscellaneous Resources](#)
