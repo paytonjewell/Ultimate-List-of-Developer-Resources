@@ -4,3 +4,4 @@
 
 * [Google web.dev](https://web.dev/learn/)
 * [The Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+* [Emoji Cheat-Sheet (Github Supported!)](https://www.webfx.com/tools/emoji-cheat-sheet/)
