@@ -10,7 +10,7 @@ I invite others who are on this journey to contribute to this project as well an
 
 
 ### Table of Contents 
-##### [HTML Resources](#)
+##### [HTML Resources](HTML.md)
 ##### [CSS Resources](#)
 ##### [SEO Resources](#)
 ##### [Interview / Getting A Job / Freelancing Resources](#)
