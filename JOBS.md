@@ -10,4 +10,4 @@
 ### Freelancing
 * [Webflow's Freelancer Journey](https://university.webflow.com/freelancer)
 
-# Next Section > [Design](DESIGN.md)
+Next Section > [Design](DESIGN.md)

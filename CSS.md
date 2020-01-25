@@ -21,4 +21,9 @@
 ### Bootstrap
 * [Hex Codes Associated with Bootstrap's Theme Colors](https://getbootstrap.com/docs/4.4/getting-started/theming/#available-variables)
 
-# Next Section > [SEO](SEO.md)
+### Cool Stuff Showing The Power of CSS
+* [CSS Zen Garden Project](http://www.csszengarden.com/)
+* [Pure CSS Minesweeper Game (No Javascript!)](https://codepen.io/bali_balo/pen/BLJONk)
+* [Species In Pieces](http://species-in-pieces.com/)
+
+Next Section > [SEO](SEO.md)

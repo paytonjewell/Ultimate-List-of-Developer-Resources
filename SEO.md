@@ -3,4 +3,4 @@
 # SEO Resources 
 * [Webflow SEO Fundamentals](https://university.webflow.com/courses/seo-fundamentals-course)
 
-# Next Section > [Jobs](JOBS.md)
+Next Section > [Jobs](JOBS.md)
