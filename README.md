@@ -17,4 +17,4 @@ I invite others who are on this journey to contribute to this project as well an
 ##### [Design Resources](DESIGN.md)
 ##### [Portfolio Resources](#)
 ##### [Learning Programming Resources](LEARN.md)
-##### [Miscellaneous Resources](#)
+##### [Miscellaneous Resources](MISC.md)
