@@ -11,7 +11,7 @@ I invite others who are on this journey to contribute to this project as well an
 
 ### Table of Contents 
 ##### [HTML Resources](HTML.md)
-##### [CSS Resources](#)
+##### [CSS Resources](CSS.md)
 ##### [SEO Resources](#)
 ##### [Interview / Getting A Job / Freelancing Resources](#)
 ##### [Design Resources](#)
